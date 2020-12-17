@@ -1,0 +1,64 @@
+[{
+    "ID": "1",
+    "CategoryID":"1",
+    "Name": "Product 1",
+    "Description": "Dove",
+    "DateAndTime":"2020-10-10 14:00:00",
+    "Image" : "http://placehold.it/400x400"
+},
+{
+    "ID": "2",
+    "CategoryID":"1",
+    "Name": "Product 2",
+    "Description": "Sunsilk",
+    "DateAndTime":"2020-10-10 14:00:00",
+    "Image" : "http://placehold.it/400x400"
+},
+{
+    "ID": "3",
+    "CategoryID":"2",
+    "Name": "Product 3",
+    "Description": "Life Boy",
+    "DateAndTime":"2020-10-10 14:00:00",
+    "Image" : "http://placehold.it/400x400"
+},
+{
+    "ID": "4",
+    "CategoryID":"1",
+    "Name": "Product 4",
+    "Description": "Sunsilk",
+    "DateAndTime":"2020-10-10 14:00:00",
+    "Image" : "http://placehold.it/400x400"
+},
+{
+    "ID": "5",
+    "CategoryID":"1",
+    "Name": "Product 5",
+    "Description": "Sunsilk",
+    "DateAndTime":"2020-10-10 14:00:00",
+    "Image" : "http://placehold.it/400x400"
+},
+{
+    "ID": "6",
+    "CategoryID":"1",
+    "Name": "Product 6",
+    "Description": "Sunsilk",
+    "DateAndTime":"2020-10-10 14:00:00",
+    "Image" : "http://placehold.it/400x400"
+},
+{
+    "ID": "7",
+    "CategoryID":"1",
+    "Name": "Product 7",
+    "Description": "Sunsilk",
+    "DateAndTime":"2020-10-10 14:00:00",
+    "Image" : "http://placehold.it/400x400"
+},
+{
+    "ID": "8",
+    "CategoryID":"1",
+    "Name": "Product 8",
+    "Description": "Sunsilk",
+    "DateAndTime":"2020-10-10 14:00:00",
+    "Image" : "http://placehold.it/400x400"
+}]
